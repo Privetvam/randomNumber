@@ -1,0 +1,5 @@
+In this code, we use the Math object and its random() method, which returns a random number between 0 and 1. Multiplying it by 10 gives us a random number between 0 and 10. We then use the floor() method to round the number down and add 1 to get a number between 1 and 10.
+
+Finally, we use the console.log() function to print a message to the console containing the generated random number.
+
+You can run this code in a browser console or any JavaScript development environment and you will see a random number generated each time the code is executed.
